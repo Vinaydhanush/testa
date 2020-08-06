@@ -1,3 +1,7 @@
 Hello vinay !!
+
 apple
+
+oranges
+
 Good bye !!
